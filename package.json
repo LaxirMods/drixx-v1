@@ -1,5 +1,5 @@
 {
-  "name": "Murias-Drixx",
+  "name": "LaxirMods-Ganteng",
   "version": "3.0.0",
   "description": "Jangan Ubah Nama Di Atas",
   "main": "index.js",
@@ -43,7 +43,7 @@
     "javascript-obfuscator": "^4.0.0",
     "jimp": "^0.16.1",
     "jsdom": "^16.4.0",
-    "kirbotz-api": "^0.0.2",
+    "LaxirMods-api": "^0.0.2",
     "lowdb": "^2.1.0",
     "mathjs": "^11.3.0",
     "miniget": "^4.2.2",
@@ -73,10 +73,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KirBotz/Baileys.git"
+    "url": "git+https://github.com/LaxirMods/Baileys.git"
   },
   "bugs": {
-    "url": "https://github.com/KirBotz/Baileys/issues"
+    "url": "https://github.com/LaxirMods/Baileys/issues"
   },
-  "homepage": "https://github.com/KirBotz/Baileys#readme"
+  "homepage": "https://github.com/LaxirMods/Baileys#readme"
 }
