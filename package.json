@@ -1,5 +1,5 @@
 {
-  "name": "LaxirMods-Ganteng",
+  "name": "drizz",
   "version": "3.0.0",
   "description": "Jangan Ubah Nama Di Atas",
   "main": "index.js",
@@ -43,7 +43,7 @@
     "javascript-obfuscator": "^4.0.0",
     "jimp": "^0.16.1",
     "jsdom": "^16.4.0",
-    "LaxirMods-api": "^0.0.2",
+    "Z-api": "^0.0.2",
     "lowdb": "^2.1.0",
     "mathjs": "^11.3.0",
     "miniget": "^4.2.2",
